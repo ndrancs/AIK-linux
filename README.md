@@ -1,2 +1,2 @@
-# AIK-linux binary clone from: Chris Renshaw-osm0sis
-# v2.8
+# AIK-linux binary clone from: osm0sis
+# v3.8
